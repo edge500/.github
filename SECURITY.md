@@ -1,11 +1,11 @@
 # Security Policy
-
+FOR-NEXT
 If you find a security issue in an Off By One project, please report it responsibly.
-
+WHILE/DO-WHILE
 ## Reporting
-
+REPEAT  (DO- UNTIL)
 Do not open a public issue for sensitive vulnerabilities.
-
+F+12
 Contact the maintainer through GitHub first with:
 
 - affected repository
@@ -16,7 +16,7 @@ Contact the maintainer through GitHub first with:
 ## Scope
 
 Security reports are especially important for:
-
+--m (802)
 - authentication
 - private user data
 - tokens or API keys
